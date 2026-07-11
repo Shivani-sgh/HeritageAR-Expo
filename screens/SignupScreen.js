@@ -45,28 +45,59 @@ export default function SignupScreen({ navigation }) {
           password
         );
 
+      const handleSignup = async () => {
+  try {
+    const userCredential =
+      await createUserWithEmailAndPassword(
+        auth,
+        email.trim(),
+        password
+      );
+
+    console.log("User created!");
+
+    try {
       await setDoc(
-        doc(
-          db,
-          'users',
-          userCredential.user.uid
-        ),
+        doc(db, 'users', userCredential.user.uid),
         {
           name,
           email,
           role,
         }
       );
+      console.log("Firestore document saved!");
+    } catch (firestoreError) {
+      console.log(
+        "Firestore Error:",
+        firestoreError.code,
+        firestoreError.message
+      );
+    }
 
+    Alert.alert("Success", "Account Created Successfully");
+    navigation.navigate('Login');
+
+  } catch (error) {
+    console.log(
+      "Auth Error:",
+      error.code,
+      error.message
+    );
+    Alert.alert(error.code, error.message);
+  }
+};
       Alert.alert('Account Created Successfully');
 
       navigation.navigate('Login');
 
     } catch (error) {
-
-      Alert.alert(error.message);
-
-    }
+  console.log("Code:", error.code);
+  console.log("Message:", error.message);
+  Alert.alert(
+    "Error",
+    `Code: ${error.code}\nMessage: ${error.message}`
+  );
+}
   };
 
   return (
