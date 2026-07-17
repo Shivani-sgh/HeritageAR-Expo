@@ -12,9 +12,12 @@ import {
   StyleSheet,
   Image,
   ScrollView,
+  KeyboardAvoidingView,
+  Platform,
 } from 'react-native';
 
 import { Ionicons } from '@expo/vector-icons';
+import AskAI from "../components/AskAI";
 
 export default function DetailScreen() {
 
@@ -72,10 +75,15 @@ const content = {
 };
 
 return (
-  <ScrollView
-    style={styles.container}
-    showsVerticalScrollIndicator={false}
+  <KeyboardAvoidingView
+    style={{ flex: 1 }}
+    behavior={Platform.OS === "ios" ? "padding" : "height"}
   >
+    <ScrollView
+      style={styles.container}
+      showsVerticalScrollIndicator={false}
+      keyboardShouldPersistTaps="handled"
+    >
 
     <Text style={styles.title}>
       Taj Mahal
@@ -166,8 +174,13 @@ onPress={() => setSelectedTab("History")}
 </Text>
 
     </View>
+    <AskAI
+  monument="Taj Mahal"
+  section={selectedTab}
+/>
 
   </ScrollView>
+  </KeyboardAvoidingView>
 );
 
 }
