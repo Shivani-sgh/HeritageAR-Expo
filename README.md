@@ -34,7 +34,7 @@ During registration, the user provides:
 
 Available roles include Tourist, Student, Researcher, and Child.
 
-**Screenshot:**
+
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/94ce793a-2fd2-42cd-9e50-baadc572662d" />
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/8a97ab6e-0e49-4b82-9fca-7b1b4c682f56" />
 
@@ -53,7 +53,7 @@ The screen includes:
 
 Currently, the application contains heritage sites such as the Red Fort, India Gate, Taj Mahal, and Qutub Minar.
 
-**Screenshot:**
+
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/77d9f46a-e58b-4dc8-8510-e4f86c8806f5" />
 
 
@@ -72,8 +72,9 @@ The page displays:
 - View in AR option
 - Ask AI section
 
-**Screenshot:**
+
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/f7035650-1128-4b11-bbb1-1f184c73198b" />
+
 
 ## 4. Personalized Heritage Guide
 
@@ -95,12 +96,15 @@ The user can also select an experience level:
 
 This information is stored as part of the user's profile and is used for personalization.
 
-**Screenshot:**
+
+
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/365c8d29-daa6-44fd-8f0d-094021b3833a" />
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/7438cbfc-8f60-4ea3-b6e0-879800f38910" />
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/f8a106cf-267a-4cf2-9517-f22e0dc058bf" />
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/8eebb9d0-8fff-4230-962b-8fe9cb028559" />
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/02a6f75f-4415-4c2b-948a-2a17821ea820" />
+
+
 
 ## 5. AI Heritage Guide
 
@@ -114,7 +118,7 @@ Example:
 
 The AI returns a response related to the Taj Mahal and its history.
 
-**Screenshot:**
+
 
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/bd317ed6-c036-443a-b181-cf29aa537f9e" />
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/63663678-f95d-436d-b16f-c3267d252745" />
@@ -127,7 +131,7 @@ A `View in AR` option is available on the monument details page.
 
 The AR component is developed using Unity and is integrated as part of the HeritageAR project. It allows the user to access the AR experience for supported heritage content.
 
-**Screenshot:**
+
 
 <img width="200" height="450" alt="AR-1 (1)" src="https://github.com/user-attachments/assets/79a48a70-1fb2-472d-a53e-5e64607d3f37" />
 <img width="200" height="450" alt="AR-2 (1)" src="https://github.com/user-attachments/assets/cad5b0ed-6fbb-4c12-8bd7-251c4ea95ce4" />
@@ -148,9 +152,10 @@ Currently implemented information includes:
 
 The profile also provides an option to edit the profile and log out.
 
-**Screenshot:**
+
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/9ed49a70-caab-40b1-ade1-590f2877e5c3" />
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/3f150731-da46-493b-a06a-d31ffa51468f" />
+
 
 
 ## 8. Firebase Implementation
