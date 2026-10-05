@@ -35,8 +35,8 @@ During registration, the user provides:
 Available roles include Tourist, Student, Researcher, and Child.
 
 **Screenshot:**
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/94ce793a-2fd2-42cd-9e50-baadc572662d" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a97ab6e-0e49-4b82-9fca-7b1b4c682f56" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/94ce793a-2fd2-42cd-9e50-baadc572662d" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8a97ab6e-0e49-4b82-9fca-7b1b4c682f56" />
 
 
 ## 2. Heritage Sites
