@@ -54,7 +54,7 @@ The screen includes:
 Currently, the application contains heritage sites such as the Red Fort, India Gate, Taj Mahal, and Qutub Minar.
 
 **Screenshot:**
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/77d9f46a-e58b-4dc8-8510-e4f86c8806f5" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/77d9f46a-e58b-4dc8-8510-e4f86c8806f5" />
 
 
 
@@ -73,7 +73,7 @@ The page displays:
 - Ask AI section
 
 **Screenshot:**
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f7035650-1128-4b11-bbb1-1f184c73198b" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/f7035650-1128-4b11-bbb1-1f184c73198b" />
 
 ## 4. Personalized Heritage Guide
 
@@ -96,11 +96,11 @@ The user can also select an experience level:
 This information is stored as part of the user's profile and is used for personalization.
 
 **Screenshot:**
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/365c8d29-daa6-44fd-8f0d-094021b3833a" />
-<img width="722" height="1600" alt="image" src="https://github.com/user-attachments/assets/7438cbfc-8f60-4ea3-b6e0-879800f38910" />
-<img width="722" height="1600" alt="image" src="https://github.com/user-attachments/assets/f8a106cf-267a-4cf2-9517-f22e0dc058bf" />
-<img width="722" height="1600" alt="image" src="https://github.com/user-attachments/assets/8eebb9d0-8fff-4230-962b-8fe9cb028559" />
-<img width="722" height="1600" alt="image" src="https://github.com/user-attachments/assets/02a6f75f-4415-4c2b-948a-2a17821ea820" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/365c8d29-daa6-44fd-8f0d-094021b3833a" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/7438cbfc-8f60-4ea3-b6e0-879800f38910" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/f8a106cf-267a-4cf2-9517-f22e0dc058bf" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/8eebb9d0-8fff-4230-962b-8fe9cb028559" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/02a6f75f-4415-4c2b-948a-2a17821ea820" />
 
 ## 5. AI Heritage Guide
 
@@ -116,8 +116,8 @@ The AI returns a response related to the Taj Mahal and its history.
 
 **Screenshot:**
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd317ed6-c036-443a-b181-cf29aa537f9e" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/63663678-f95d-436d-b16f-c3267d252745" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/bd317ed6-c036-443a-b181-cf29aa537f9e" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/63663678-f95d-436d-b16f-c3267d252745" />
 
 
 
@@ -129,8 +129,8 @@ The AR component is developed using Unity and is integrated as part of the Herit
 
 **Screenshot:**
 
-<img width="1080" height="2400" alt="AR-1 (1)" src="https://github.com/user-attachments/assets/79a48a70-1fb2-472d-a53e-5e64607d3f37" />
-<img width="1080" height="2400" alt="AR-2 (1)" src="https://github.com/user-attachments/assets/cad5b0ed-6fbb-4c12-8bd7-251c4ea95ce4" />
+<img width="200" height="450" alt="AR-1 (1)" src="https://github.com/user-attachments/assets/79a48a70-1fb2-472d-a53e-5e64607d3f37" />
+<img width="200" height="450" alt="AR-2 (1)" src="https://github.com/user-attachments/assets/cad5b0ed-6fbb-4c12-8bd7-251c4ea95ce4" />
 
 
 ## 7. User Profile
@@ -149,8 +149,8 @@ Currently implemented information includes:
 The profile also provides an option to edit the profile and log out.
 
 **Screenshot:**
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/9ed49a70-caab-40b1-ade1-590f2877e5c3" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f150731-da46-493b-a06a-d31ffa51468f" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/9ed49a70-caab-40b1-ade1-590f2877e5c3" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/3f150731-da46-493b-a06a-d31ffa51468f" />
 
 
 ## 8. Firebase Implementation
